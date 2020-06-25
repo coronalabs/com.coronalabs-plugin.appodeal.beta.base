@@ -5,9 +5,9 @@ repositories {
 }
 
 dependencies {
-    implementation("com.appodeal.ads.sdk:core:2.6.2")
-    implementation("com.appodeal.ads.sdk.networks:appodeal:2.6.0.1")
-    implementation("com.appodeal.ads.sdk.networks:appodealx:2.6.0.1")
-    implementation("com.appodeal.ads.sdk.networks:vast:2.6.0.1")
-    implementation("com.appodeal.ads.sdk.networks:mraid:2.6.0.1")
+    implementation("com.appodeal.ads.sdk:core:2.6.4")
+    implementation("com.appodeal.ads.sdk.networks:appodeal:2.6.4.1")
+    implementation("com.appodeal.ads.sdk.networks:appodealx:2.6.4.1")
+    implementation("com.appodeal.ads.sdk.networks:vast:2.6.4.1")
+    implementation("com.appodeal.ads.sdk.networks:mraid:2.6.4.1")
 }
