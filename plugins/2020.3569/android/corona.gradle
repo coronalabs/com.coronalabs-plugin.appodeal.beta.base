@@ -1,13 +1,13 @@
 repositories {
     maven {
         url "https://artifactory.appodeal.com/appodeal"
+        url "https://artifactory.appodeal.com/appodeal-beta-public"
     }
 }
 
-dependencies {
-    implementation("com.appodeal.ads.sdk:core:3.0.2")
-    implementation("com.appodeal.ads.sdk.networks:appodeal:3.0.2.0")
 
+dependencies {
+    implementation("com.appodeal.ads.sdk:core:3.2.0-beta.1")
 }
 
 
