@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MvpvbB3sW/jRnVfNQNtZ+wySa9I=
+		PXhd9IausV8OUldi26Pw3/et+Kk=
 		</data>
 		<key>Modules/AppodealMediationCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		cpwpzQMGr7GrBHnqe9dKESd5NO0=
+		pTRGcnTThTJ+Kby+TF2ENPQo/NM=
 		</data>
 		<key>Modules/AppodealMediationCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/AppodealMediationCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		E8qOx1j692S9noXbeyWh4Ldl9yg=
+		jYbW5Ek/3/QZp1sjBlz1I4nbJVc=
 		</data>
 		<key>Modules/AppodealMediationCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cpwpzQMGr7GrBHnqe9dKESd5NO0=
+		pTRGcnTThTJ+Kby+TF2ENPQo/NM=
 		</data>
 		<key>Modules/AppodealMediationCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/AppodealMediationCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TpBn26e6t46/lC/61U7gxUFM2Ak=
+		RCjbAZq6BacqaqF65pRz8CmKT7E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,11 +89,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cpwpzQMGr7GrBHnqe9dKESd5NO0=
+			pTRGcnTThTJ+Kby+TF2ENPQo/NM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YObvl/CcKqTL0mbPAreibEOh/pVpTHmcDuflVvJkicg=
+			VkO3ns3lMvm+seYVedyILO2tqq1RJd3BCsUKJx3Vjgc=
 			</data>
 		</dict>
 		<key>Modules/AppodealMediationCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -133,22 +133,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E8qOx1j692S9noXbeyWh4Ldl9yg=
+			jYbW5Ek/3/QZp1sjBlz1I4nbJVc=
 			</data>
 			<key>hash2</key>
 			<data>
-			oU1FMBIm1lpHdxgrBSks5puWz8+LWadJQ2CrBBlx/+o=
+			6UYC9XMaqnLzGHkT4UAbjN76Svy04+Og7ocXNbEbIng=
 			</data>
 		</dict>
 		<key>Modules/AppodealMediationCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cpwpzQMGr7GrBHnqe9dKESd5NO0=
+			pTRGcnTThTJ+Kby+TF2ENPQo/NM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YObvl/CcKqTL0mbPAreibEOh/pVpTHmcDuflVvJkicg=
+			VkO3ns3lMvm+seYVedyILO2tqq1RJd3BCsUKJx3Vjgc=
 			</data>
 		</dict>
 		<key>Modules/AppodealMediationCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -188,11 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TpBn26e6t46/lC/61U7gxUFM2Ak=
+			RCjbAZq6BacqaqF65pRz8CmKT7E=
 			</data>
 			<key>hash2</key>
 			<data>
-			rT3JdC1leXfnjigtg80CWVQaGYcXWp4A9gGpscvFt7Y=
+			nyG4+X9HgWaaYhSNgTtsIAi+P8qKYsGhB8A7dffkq8I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

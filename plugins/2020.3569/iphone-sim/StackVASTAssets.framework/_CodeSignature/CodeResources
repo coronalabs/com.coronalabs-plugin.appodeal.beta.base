@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/STKVASTAssetTrackProtocol.h</key>
 		<data>
-		ubPHw3sDQwzqNGtWGqaH2+myJas=
+		Q4swzWMszh0mgtL0jrP5lwpHypg=
 		</data>
 		<key>Headers/StackVASTAssets.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DMsMp8XY7LhVBpW8nc8+lkrnCLM=
+		xClJ5JlT7bLMwizfSFLgCMuHZiI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -162,11 +162,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ubPHw3sDQwzqNGtWGqaH2+myJas=
+			Q4swzWMszh0mgtL0jrP5lwpHypg=
 			</data>
 			<key>hash2</key>
 			<data>
-			auNiaQL7lZA9DTlb7/c87HvcsTE2EzRC4wD8nnu7cPQ=
+			w0fEaIlzjXsw38BNIPY2nCA8wXSYD7v+pXxGVg1g0v4=
 			</data>
 		</dict>
 		<key>Headers/StackVASTAssets.h</key>

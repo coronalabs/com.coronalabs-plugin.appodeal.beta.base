@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/STKVideoPlayer.h</key>
 		<data>
-		vZ9ofPmzVbIJNbBbHOisrLB1Cmo=
+		iT041aySZpV1qpzB1MqQgqvHWLU=
 		</data>
 		<key>Headers/STKVideoPlayerView.h</key>
 		<data>
-		4kworkWtTWMhOAa283pxFMpa8Ms=
+		EkKvuHS7wvYe0W/AS71SfH+UuiU=
 		</data>
 		<key>Headers/STKVideoPlayerViewController.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		P+PtmmJWWUFPGrd3CE0Sk72mMmE=
+		six6oSx5uL73Mhxe3YosXVj18Eg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,22 +39,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vZ9ofPmzVbIJNbBbHOisrLB1Cmo=
+			iT041aySZpV1qpzB1MqQgqvHWLU=
 			</data>
 			<key>hash2</key>
 			<data>
-			G1ftt2PCeDbyDwvqUMh5MHuSa4zt79j1icFjqC3sVeI=
+			zgWgegiCaVB9tovhCZTM3WmZHx+ny9YRMNvFuOp1TmU=
 			</data>
 		</dict>
 		<key>Headers/STKVideoPlayerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4kworkWtTWMhOAa283pxFMpa8Ms=
+			EkKvuHS7wvYe0W/AS71SfH+UuiU=
 			</data>
 			<key>hash2</key>
 			<data>
-			xUOnMNbNpGu+g2bV2YPxs+5gUG9dUHy/ORcV92YUcAU=
+			1c7aDlJuFsC9RjWUyWSIbfktBFstbwihj5560jpkiJU=
 			</data>
 		</dict>
 		<key>Headers/STKVideoPlayerViewController.h</key>
